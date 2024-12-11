@@ -188,3 +188,34 @@ h1{
 #intro{
     font-size: 20px;
 }
+
+#summer-intro{
+  font-size: 15px;
+  position: relative;
+  top: 300px;
+  
+}
+
+#winter-intro{
+  font-size: 15px;
+  position: relative;
+  top: 300px;
+}
+
+#party-intro{
+  font-size: 15px;
+  position: relative;
+  top: 300px;
+}
+
+#family-intro{
+  font-size: 15px;
+  position: relative;
+  top: 300px;
+}
+
+#relax-intro{
+  font-size: 15px;
+  position: relative;
+  top: 300px;
+}
