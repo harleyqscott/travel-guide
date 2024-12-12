@@ -250,6 +250,12 @@ h1{
   border: none;
 }
 
+#box-Family1{
+  height: 600px;
+  width: 500px;
+  background-color: #ededed;
+  border: none;
+}
 
 #box-titles{
   color:#47b5ff;
