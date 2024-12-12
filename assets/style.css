@@ -220,15 +220,42 @@ h1{
 }
 
 #box-party1{
-  height: 400px;
-  width: 300px;
+  height: 600px;
+  width: 500px;
   background-color: #ededed;
   border: none;
-  display: inline-block;
-  margin-right: 40px;
-  margin-left: 40px;
 }
 
+.boxes{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 30px;
+  margin-top: 500px;
+  margin-bottom: 100px;
+}
+#box-summer1{
+  height: 600px;
+  width: 500px;
+  background-color: #ededed;
+  border: none;
+}
+
+#box-winter1{
+  height: 600px;
+  width: 500px;
+  background-color: #ededed;
+  border: none;
+}
+
+
+#box-titles{
+  color:#47b5ff;
+  font-size: x-large;
+  text-align: center;
+}
 
 #socials{
   text-align: center;
