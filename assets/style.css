@@ -68,7 +68,6 @@ body
   height: 4px;
   margin-bottom: 5px;
   position: relative;
-  
   background: #cdcdcd;
   border-radius: 3px;
   
@@ -218,4 +217,28 @@ h1{
   font-size: 15px;
   position: relative;
   top: 300px;
+}
+
+#box-party1{
+  height: 400px;
+  width: 300px;
+  background-color: #ededed;
+  border: none;
+  display: inline-block;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+
+#socials{
+  text-align: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+#socials i{
+  color: #cdcdcd;
+  font-size: 200%;
 }
