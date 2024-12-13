@@ -286,6 +286,84 @@ h1{
 #snow-flake{
   color:#23232300
 }
+/*links to booking websites*/
+#ibiza-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -360px;
+  left: 190px;
+}
+
+#maga-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -395px;
+  left: 190px;
+}
+
+#benidorm-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -395px;
+  left: 220px;
+}
+
+#napa-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -395px;
+  left: 190px;
+}
+
+#algarve-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -395px;
+  left: 190px;
+}
+
+#zante-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -395px;
+  left: 190px;
+}
 
 /*social media icons*/
 #socials{
