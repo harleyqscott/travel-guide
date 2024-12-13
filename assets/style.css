@@ -286,6 +286,11 @@ h1{
 #snow-flake{
   color:#23232300
 }
+
+#visit-time{
+  text-align: center;
+}
+
 /*links to booking websites*/
 #ibiza-link{
   background-color: #1bf838da;
@@ -309,9 +314,10 @@ h1{
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -395px;
+  bottom: -360px;
   left: 190px;
 }
+
 
 #benidorm-link{
   background-color: #1bf838da;
@@ -322,8 +328,8 @@ h1{
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -395px;
-  left: 220px;
+  bottom: -360px;
+  left: 190px;
 }
 
 #napa-link{
@@ -335,7 +341,7 @@ h1{
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -395px;
+  bottom: -370px;
   left: 190px;
 }
 
@@ -348,7 +354,7 @@ h1{
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -395px;
+  bottom: -370px;
   left: 190px;
 }
 
@@ -361,7 +367,7 @@ h1{
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -395px;
+  bottom: -370px;
   left: 190px;
 }
 
