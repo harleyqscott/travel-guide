@@ -155,9 +155,7 @@ body
   cursor: pointer;
 }
 
-/*
- * And let's slide it in from the left
- */
+/* slide it in from the left*/
 #toggleMenu input:checked ~ ul
 {
   transform: none;
@@ -174,11 +172,13 @@ h1{
     color: #47b5ff;
 }
 
+/*welcome section in index.html*/
 #welcome{
     position: relative;
     top: 300px;
 }
 
+/*singular word "welcome"*/
 #wordWelcome{
     font-size: 40px;
     color: #47b5ff;
@@ -188,6 +188,7 @@ h1{
     font-size: 20px;
 }
 
+/*"are you wanting a ... holiday"*/
 #summer-intro{
   font-size: 15px;
   position: relative;
@@ -240,28 +241,28 @@ h1{
 #box-summer1{
   height: 600px;
   width: 500px;
-  background-color: #ededed;
+  background-color: hsl(0, 0%, 93%, 0.5);
   border: none;
 }
 
 #box-winter1{
   height: 600px;
   width: 500px;
-  background-color: #ededed;
+  background-color: hsl(0, 0%, 93%, 0.5);
   border: none;
 }
 
 #box-Family1{
   height: 600px;
   width: 500px;
-  background-color: #ededed;
+  background-color: hsl(0, 0%, 93%, 0.5);
   border: none;
 }
 
 #box-relax1{
   height: 600px;
   width: 500px;
-  background-color: #ededed;
+  background-color: hsl(0, 0%, 93%, 0.5);
   border: none;
 }
 
@@ -442,6 +443,84 @@ font-family: 'Courier New', Courier, monospace;
 }
 
 #maldives-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -360px;
+  left: 200px;
+}
+
+#grindelwald-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -360px;
+  left: 200px;
+}
+
+#innsbruck-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -360px;
+  left: 200px;
+}
+
+#amsterdam-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -360px;
+  left: 200px;
+}
+
+#lapland-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -360px;
+  left: 200px;
+}
+
+#riga-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -360px;
+  left: 200px;
+}
+
+#morzine-link{
   background-color: #1bf838da;
   cursor: pointer;
   padding: 10px;
