@@ -291,6 +291,11 @@ h1{
   text-align: center;
 }
 
+/*title of each peice of information for each box e.g best time to visit*/
+#info-title{
+font-family: 'Courier New', Courier, monospace;
+}
+
 /*links to booking websites*/
 #ibiza-link{
   background-color: #1bf838da;
