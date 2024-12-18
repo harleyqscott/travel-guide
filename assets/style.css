@@ -68,7 +68,7 @@ body
   height: 4px;
   margin-bottom: 5px;
   position: relative;
-  background: #cdcdcd;
+  background: hsl(0, 0%, 80%);
   border-radius: 3px;
   z-index: 1;
   
@@ -132,7 +132,7 @@ body
   padding-top: 125px;
   box-sizing: border-box;
   overflow-y: auto;
-  background: #ededed;
+  background: hsl(0, 0%, 93%, 0.8);
   list-style-type: none;
   -webkit-font-smoothing: antialiased;
   /* to stop flickering of text in safari */
@@ -168,7 +168,7 @@ body
 }
 h1{
     font-size: 50px;
-    color: #47b5ff;
+    color: #2fabfd;
 }
 
 /*welcome section in index.html*/
@@ -180,7 +180,7 @@ h1{
 /*singular word "welcome"*/
 #wordWelcome{
     font-size: 40px;
-    color: #47b5ff;
+    color: #2fabfd;
 }
 
 #intro{
@@ -267,7 +267,7 @@ h1{
 
 /*box title*/
 #box-titles{
-  color:#47b5ff;
+  color:#2fabfd;
   font-size: x-large;
   text-align: center;
 }
@@ -276,6 +276,7 @@ h1{
 #box-destination{
   font-size: 25px;
   text-align: center;
+  margin: 5px;
 }
 
 /*sun fav icon*/
@@ -287,6 +288,21 @@ h1{
   color:#23232300
 }
 
+/*images*/
+
+#image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*hover over image and doubles the size*/
+#image:hover{
+  transform: scale(2);
+  z-index: 2;
+}
+
+/*best time to visit location*/
 #visit-time{
   text-align: center;
 }
@@ -359,7 +375,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -370px;
+  bottom: -200px;
   left: 190px;
 }
 
@@ -424,7 +440,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -360px;
+  bottom: -200px;
   left: 200px;
 }
 
@@ -450,7 +466,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -360px;
+  bottom: -200px;
   left: 200px;
 }
 
@@ -489,7 +505,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -360px;
+  bottom: -200px;
   left: 200px;
 }
 
@@ -542,7 +558,7 @@ font-family: 'Courier New', Courier, monospace;
 }
 /*social media icons*/
 #socials i{
-  color: #cdcdcd;
+  color: #2fabfd;
   font-size: 200%;
 }
 
