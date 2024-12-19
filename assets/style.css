@@ -548,6 +548,84 @@ font-family: 'Courier New', Courier, monospace;
   left: 200px;
 }
 
+#budapest-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#peru-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#montego-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#borabora-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#maluku-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#caye-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
 /*social media icons*/
 #socials{
   text-align: center;
