@@ -313,6 +313,8 @@ font-family: 'Courier New', Courier, monospace;
 }
 
 /*links to booking websites*/
+
+/*party holiday*/
 #ibiza-link{
   background-color: #1bf838da;
   cursor: pointer;
@@ -391,7 +393,7 @@ font-family: 'Courier New', Courier, monospace;
   bottom: -100px;
   left: 190px;
 }
-
+/*summer holiday*/
 #rhodes-link{
   background-color: #1bf838da;
   cursor: pointer;
@@ -469,7 +471,7 @@ font-family: 'Courier New', Courier, monospace;
   bottom: -200px;
   left: 200px;
 }
-
+/*winter holiday*/
 #grindelwald-link{
   background-color: #1bf838da;
   cursor: pointer;
@@ -547,7 +549,7 @@ font-family: 'Courier New', Courier, monospace;
   bottom: -360px;
   left: 200px;
 }
-
+/*relaxing holiday*/
 #budapest-link{
   background-color: #1bf838da;
   cursor: pointer;
@@ -614,6 +616,85 @@ font-family: 'Courier New', Courier, monospace;
 }
 
 #caye-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+/*family holiday*/
+#florida-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#hawaii-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#cornwall-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#menorca-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#mexico-link{
+  background-color: #1bf838da;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  color:#232323;
+  position:relative;
+  bottom: -100px;
+  left: 190px;
+}
+
+#crete-link{
   background-color: #1bf838da;
   cursor: pointer;
   padding: 10px;
