@@ -707,6 +707,24 @@ font-family: 'Courier New', Courier, monospace;
   left: 190px;
 }
 
+/*sign up page*/
+
+.sign-up{
+  background-color: hsl(0, 0%, 93%, 0.7);
+  box-shadow: #232323;
+  text-align: center;
+  width: 50%;
+  height: 500px;
+  margin: auto;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+
+}
+
 /*social media icons*/
 #socials{
   text-align: center;
