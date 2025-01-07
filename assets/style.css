@@ -260,6 +260,7 @@ h1{
   width: 500px;
   background-color: hsl(0, 0%, 93%, 0.5);
   border: none;
+  margin-top: 30px;
 }
 
 #box-winter1{
@@ -733,14 +734,42 @@ font-family: 'Courier New', Courier, monospace;
   text-align: center;
   width: 50%;
   height: 500px;
-  margin: auto;
+  margin: 0 auto;
   padding: 10px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  
+}
 
+#signup-heading{
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+
+/*submit button*/
+.submit-btn{
+  margin: 10px;
+  color: #2fabfd;
+  width: 80px;
+  height: 30px;
+  font-size: large;
+  border-color: #2fabfd;
+}
+
+#signup-text{
+  border-bottom: #2fabfd;
+}
+
+#name{
+border-color: #2fabfd;
+margin: 10px;
+}
+
+#email{
+  border-color: #2fabfd;
+  margin: 10px;
 }
 
 /*social media icons*/
