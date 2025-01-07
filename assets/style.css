@@ -226,6 +226,24 @@ h1{
   border: none;
 }
 
+/*zoon in on holiday destination info*/
+#box-party1:hover{
+  transform: scale(1.3);
+}
+#box-Family1:hover{
+  transform: scale(1.3);
+}
+#box-relax1:hover{
+  transform: scale(1.3);
+}
+#box-summer1:hover{
+  transform: scale(1.3);
+}
+#box-winter1:hover{
+  transform: scale(1.3);
+}
+
+
 /*all of the boxes for each page*/
 .boxes{
   display: flex;
@@ -324,7 +342,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -337,7 +355,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -351,7 +369,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -364,7 +382,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -377,7 +395,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -390,7 +408,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 /*summer holiday*/
@@ -403,7 +421,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -416,7 +434,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -429,7 +447,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -442,7 +460,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -455,7 +473,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -468,7 +486,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 /*winter holiday*/
@@ -481,7 +499,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -494,7 +512,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -507,7 +525,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -520,7 +538,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -533,7 +551,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 
@@ -546,7 +564,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 200px;
 }
 /*relaxing holiday*/
@@ -559,7 +577,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -572,7 +590,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -585,7 +603,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -598,7 +616,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -611,7 +629,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -624,7 +642,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -638,7 +656,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -651,7 +669,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -664,7 +682,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -677,7 +695,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -690,7 +708,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
@@ -703,7 +721,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -200px;
+  bottom: -50px;
   left: 190px;
 }
 
