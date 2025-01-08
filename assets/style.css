@@ -110,7 +110,7 @@ body
 }
 
 /*
- * Ohyeah and the last one should go the other direction
+ * the last one should go the other direction
  */
 #toggleMenu input:checked ~ span:nth-last-child(2)
 {
@@ -243,6 +243,10 @@ h1{
   transform: scale(1.3);
 }
 
+/*information in each box targetting paragraphs(<p>) e.g must see and top resturants*/
+.destination-info{
+  font-size: 12px;
+}
 
 /*all of the boxes for each page*/
 .boxes{
@@ -422,7 +426,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -50px;
+  bottom: -5px;
   left: 200px;
 }
 
@@ -435,7 +439,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -50px;
+  bottom: -5px;
   left: 200px;
 }
 
@@ -448,7 +452,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -50px;
+  bottom: -5px;
   left: 200px;
 }
 
@@ -461,7 +465,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -50px;
+  bottom: -5px;
   left: 200px;
 }
 
@@ -474,7 +478,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -50px;
+  bottom: -5px;
   left: 200px;
 }
 
@@ -487,7 +491,7 @@ font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color:#232323;
   position:relative;
-  bottom: -50px;
+  bottom: -5px;
   left: 200px;
 }
 /*winter holiday*/
