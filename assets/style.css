@@ -159,10 +159,15 @@ body
 {
   transform: none;
 }
-/*background image for html*/
+
 #background-image{
-  margin-top:10px;
+  background-image: url(image/pexels-apasaric-1285625.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  width: 500px;
+  height: 500px;
 }
+
 
 /*title animation "travel guide plus icon"*/
 @keyframes heading {
@@ -191,20 +196,21 @@ body
 }
 h1{
     font-size: 50px;
-    color: #2fabfd;
+    color: #21a4fc;
 }
 
 /*welcome section in index.html*/
 #welcome{
     position: relative;
-    top: -800px;
+    top: 300px;
     background-color: hsl(0, 0%, 93%, 0.8);
     width: 550px;
     height: 320px;
     border: #232323 5px groove;
     border-radius: 10px;
-    margin-left: 100px;
+    margin-left: 200px;
     font-size: 40px;
+    z-index: 1;
 }
 
 /*singular word "welcome"*/
@@ -223,8 +229,9 @@ h1{
   background-color:hsl(0, 0%, 93%, 0.8);
   font-size: 30px;
   position: relative;
-  top: -800px;
-  left: 800px;
+  top: 200px;
+  left: 1000px;
+  z-index: 1;
 }
 
 #intro{
