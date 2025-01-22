@@ -159,7 +159,12 @@ body
 {
   transform: none;
 }
+/*background image for html*/
+#background-image{
+  margin-top:10px;
+}
 
+/*title animation "travel guide plus icon"*/
 @keyframes heading {
   from{
     transform: translateX(-500px);
@@ -181,7 +186,7 @@ body
 
 #title{
     position: absolute;
-    top: 24px;
+    top: 20px;
     right: 150px;
 }
 h1{
@@ -192,7 +197,14 @@ h1{
 /*welcome section in index.html*/
 #welcome{
     position: relative;
-    top: 300px;
+    top: -800px;
+    background-color: hsl(0, 0%, 93%, 0.8);
+    width: 550px;
+    height: 320px;
+    border: #232323 5px groove;
+    border-radius: 10px;
+    margin-left: 100px;
+    font-size: 40px;
 }
 
 /*singular word "welcome"*/
@@ -200,18 +212,23 @@ h1{
     font-size: 40px;
     color: #2fabfd;
 }
-
+/*in index.html*/
 #breakdown-of-pages{
   width: 600px;
   height: 200px;
-  border: #232323;
-  margin-top: 400px;
+  text-align: center;
+  padding: 8px;
+  border: #232323 5px groove;
+  border-radius: 10px;
   background-color:hsl(0, 0%, 93%, 0.8);
-  font-size: 20px;
+  font-size: 30px;
+  position: relative;
+  top: -800px;
+  left: 800px;
 }
 
 #intro{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 /*"are you wanting a ... holiday"*/
