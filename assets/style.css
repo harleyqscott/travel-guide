@@ -202,7 +202,7 @@ h1{
 /*welcome section in index.html*/
 #welcome{
     position: relative;
-    top: 300px;
+    top: 350px; 
     background-color: hsl(0, 0%, 93%, 0.8);
     width: 550px;
     height: 320px;
@@ -223,16 +223,34 @@ h1{
   width: 600px;
   height: 200px;
   text-align: center;
-  padding: 8px;
+  padding-bottom: 10px;
   border: #232323 5px groove;
   border-radius: 10px;
-  background-color:hsl(0, 0%, 93%, 0.8);
+  background-color:hsla(0, 0%, 93%, 0.8);
   font-size: 30px;
   position: relative;
   top: 200px;
-  left: 1000px;
+  left: 1002px; 
   z-index: 1;
 }
+
+#home-signup{
+  font-size:  30px;
+  text-align: center;
+  padding: 10px;
+  background-color: hsl(0, 0%, 93%, 0.8);
+  border-radius: 10px;
+  position: relative;
+  left: 1000px;
+  top: -350px;
+  border: #232323 5px groove;
+  width: 600px;
+}
+
+legend{
+  color: #21a4fc;
+}
+
 
 #intro{
     font-size: 30px;
@@ -884,3 +902,4 @@ margin: 10px;
   height: 30px;
   bottom: 50px;
 }
+
